@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
     s.requires_arc = true
     s.framework    = 'SystemConfiguration'
     s.license      = 'MIT'
-    s.source       = { :git => 'https://github.com/Saritasa/Trivver-IOS-SDK-.git', :tag => '1.0.0' }
+    s.source       = { :git => 'https://github.com/Saritasa/Trivver-IOS-SDK.git', :tag => '1.0.0' }
     s.authors       = 'Saritasa'
     s.ios.vendored_frameworks = 'Framework/TrivverSDK.framework'
     s.dependency 'AFNetworking', '~> 3.1'
