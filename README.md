@@ -108,4 +108,4 @@ There are 3 levels:
 * **Error**: Log all api errors.
 
 ## IV. Example
-Demo app is there: [https://gitblit.saritasa.com/trivver/ios-sdk.git]()
+Check our example for more informations.
