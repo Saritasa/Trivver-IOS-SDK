@@ -109,3 +109,4 @@ There are 3 levels:
 
 ## IV. Example
 Check our example for more informations.
+https://github.com/Saritasa/Trivver-IOS-SDK
