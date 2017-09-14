@@ -77,6 +77,8 @@
 
 + (NSString *_Nullable)deviceUID;
 
++ (NSString *)getIPAddress;
+
 /**
  Set Device UID value
 
