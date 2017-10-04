@@ -2,9 +2,6 @@
 ## I. Installing IOS SDK
 
 ### 1. CocoaPod
-Add podspec source to pod file
-`source 'ssh://gitblit.saritasa.com/cocoaPods/specs.git`
-
 Pod Trivver SDK.
 
 `pod 'TrivverSDK'`
@@ -111,4 +108,5 @@ There are 3 levels:
 * **Error**: Log all api errors.
 
 ## IV. Example
-Demo app is there: [https://gitblit.saritasa.com/trivver/ios-sdk.git]()
+Check our example for more informations.
+https://github.com/Saritasa/Trivver-IOS-SDK
