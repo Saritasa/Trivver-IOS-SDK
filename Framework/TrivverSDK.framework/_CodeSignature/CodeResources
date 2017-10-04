@@ -6,15 +6,15 @@
 	<dict>
 		<key>AssetCollectionViewCell.nib</key>
 		<data>
-		16kVxBDczujNCLo8RIuCYzmiR1A=
+		OIVXHGAxbv+YrWU8UAut9gWUBWs=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		+dsXD3RufSgJCEbwUKdv2i8QWsQ=
+		SyLZuUjc01t3q80/NyCb0/rWpt4=
 		</data>
 		<key>CouponView.nib</key>
 		<data>
-		w60UhtME33qgUVywpyqZfGD4aJY=
+		zH/ZvwdsobNInz9YqzpmjHDm+zE=
 		</data>
 		<key>Headers/SMAssetInfo.h</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>SmartTabView.nib</key>
 		<data>
-		CobuJjQrsVndSACqdo4X9WqIW3g=
+		D7+zqqRsGqlvbZkJEdH5RedZjnI=
 		</data>
 		<key>VideoView.nib</key>
 		<data>
-		QNMFMcngcqkRqScgoYA/RMFjlAY=
+		VNWbSJZhtXwHOKBjZf3Fk4vvYfg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -79,33 +79,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			16kVxBDczujNCLo8RIuCYzmiR1A=
+			OIVXHGAxbv+YrWU8UAut9gWUBWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZbK8BXT0qHJk8o3oEG/XtVuKykGqKqMNpoWDuyT5M2o=
+			KawpgUejJblQzVZqewr36TZECkLr2PImXhbsFOgijC8=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+dsXD3RufSgJCEbwUKdv2i8QWsQ=
+			SyLZuUjc01t3q80/NyCb0/rWpt4=
 			</data>
 			<key>hash2</key>
 			<data>
-			DSj6zfwbs8bhXPBaKc6K+xW14mFc55rb6awLRLI2d3g=
+			4pJgv3plhzR5jy3dt+bQARLzQhla/wM3bs1YqvS8Il4=
 			</data>
 		</dict>
 		<key>CouponView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w60UhtME33qgUVywpyqZfGD4aJY=
+			zH/ZvwdsobNInz9YqzpmjHDm+zE=
 			</data>
 			<key>hash2</key>
 			<data>
-			t+ZZZg0hXFv6/obBX85O0/41W052hmFhTsfcb/nudzg=
+			gxeco3v2uVcJGEHwptvIskfYCzCbouNRiOxcjAEXXTs=
 			</data>
 		</dict>
 		<key>Headers/SMAssetInfo.h</key>
@@ -233,22 +233,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CobuJjQrsVndSACqdo4X9WqIW3g=
+			D7+zqqRsGqlvbZkJEdH5RedZjnI=
 			</data>
 			<key>hash2</key>
 			<data>
-			rvrsGVhkXSkF1uxZBh/mxB1NCzggPXNyjIAf4U/5RyM=
+			fdLvqVWJdvvV6jtOqhYYXEc9eKqw4Wa1CU1sUmoMNWI=
 			</data>
 		</dict>
 		<key>VideoView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			QNMFMcngcqkRqScgoYA/RMFjlAY=
+			VNWbSJZhtXwHOKBjZf3Fk4vvYfg=
 			</data>
 			<key>hash2</key>
 			<data>
-			hz2H6O74mjkk68yyiDgHAC47yxb2zZvFdHVALNnyAjY=
+			AGer4ZtpEWlLD8DNbuyghpsTSakVX0AdQ2E1JIMAgbE=
 			</data>
 		</dict>
 	</dict>
