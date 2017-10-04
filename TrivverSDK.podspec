@@ -11,4 +11,5 @@ Pod::Spec.new do |s|
     s.authors       = 'Saritasa'
     s.ios.vendored_frameworks = 'Framework/TrivverSDK.framework'
     s.dependency 'AFNetworking', '~> 3.1'
+    s.dependency 'TbsoRendererFramework'
 end
